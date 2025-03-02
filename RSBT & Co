@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rsbt & Co - Your Financial Partner</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background: #002147; color: white; padding: 20px; text-align: center; }
+        nav { background: #004080; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-size: 18px; }
+        .container { width: 80%; margin: auto; padding: 20px; background: white; }
+        .section { padding: 20px; text-align: center; }
+        footer { background: #002147; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rsbt & Co</h1>
+        <p>Don't take headache, give us. Your financial partner.</p>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about" class="section">
+            <h2>About Us</h2>
+            <p>Rsbt & Co is a leading accounting consultancy providing expert financial solutions to businesses of all sizes.</p>
+        </section>
+        <section id="services" class="section">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Accounting & Bookkeeping</li>
+                <li>GST & Taxation Compliance</li>
+                <li>Financial Advisory & Planning</li>
+                <li>Corporate Business Consultancy</li>
+            </ul>
+        </section>
+        <section id="contact" class="section">
+            <h2>Contact Us</h2>
+            <p>Email: contact@rsbtco.com</p>
+            <p>Phone: +123 456 7890</p>
+            <p>Address: Your Business Location</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2025 Rsbt & Co. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
